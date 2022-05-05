@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ahsansabir30
-- 👀 I’m interested in coding, finance and data analysis 
+- 👋 Hi, I’m @ahsansabir3
+- 👀 I’m interested in coding and data analysis 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects (mainly focused on MySQL and Python)
 - 📫 How to reach me ahsansabir30@gmail.com
 
 <!---
