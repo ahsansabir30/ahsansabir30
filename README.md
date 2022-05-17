@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ahsansabir3
-- 👀 I’m interested in coding and data analysis 
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @ahsansabir
+- 👀 I'm currently building a portfolio website and web applications using django 
+- 🌱 I’m currently learning django (python)
 - 📫 How to reach me ahsansabir30@gmail.com
 
 <!---
