@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahsansabir
-- 👀 I'm currently building web applications using django (and a portfolio website)
+- 👀 I'm currently building web applications in Python using Django (and a portfolio website)
 - 🌱 I’m currently learning django (python)
 - 📫 How to reach me ahsansabir30@gmail.com
 
