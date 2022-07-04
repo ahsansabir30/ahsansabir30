@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahsansabir
-- 👀 I'm currently building web applications in Python using Django (and a portfolio website)
-- 🌱 I’m currently learning django (python)
+- 👀 I'm currently building things in Django Python
+- 🌱 I’m currently learning Linux
 - 📫 How to reach me ahsansabir30@gmail.com
 
 <!---
