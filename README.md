@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahsansabir
 - 👀 I'm currently building in Flask
-- 🌱 I’m currently learning Flask, DevOps
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me ahsansabir30@gmail.com
 
 <!---
