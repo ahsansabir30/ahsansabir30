@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahsansabir
+- 👋 Hi, I’m @ahsansabir, I specialise in DevOps
 - 📫 How to reach me ahsansabir30@gmail.com
 
 <!---
